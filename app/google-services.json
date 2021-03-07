@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781551036705",
+    "project_id": "geekbrains-prod-d588f",
+    "storage_bucket": "geekbrains-prod-d588f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781551036705:android:5c34b68c8acf46c704f660",
+        "android_client_info": {
+          "package_name": "com.example.lesson10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781551036705-1f84oomvvit0ong4j1aqaghkvj1iauut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJFYHqsjfdbjWEadd3nnHem6ViR2Y2TJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781551036705-1f84oomvvit0ong4j1aqaghkvj1iauut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
