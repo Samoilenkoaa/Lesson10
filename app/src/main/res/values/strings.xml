@@ -10,4 +10,5 @@
     <string name="fragment_navigation">fragment_nav</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="continue_">Продолжить</string>
 </resources>
